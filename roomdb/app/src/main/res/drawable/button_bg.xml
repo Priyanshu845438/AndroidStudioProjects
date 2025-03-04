@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradient_bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Firebase Realtime DB"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+        android:padding="15dp"
+        android:background="@drawable/input_field_bg"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Email"
+        android:padding="15dp"
+        android:background="@drawable/input_field_bg"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save to Firebase"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/button_bg"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

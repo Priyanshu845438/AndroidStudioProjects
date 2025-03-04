@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257233177579",
+    "project_id": "fir-realtime-db96c",
+    "storage_bucket": "fir-realtime-db96c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257233177579:android:af124c368fa809320127ae",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedbdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFN_UBE47QEBIZgFkL0LqEy1K9BUIBYqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

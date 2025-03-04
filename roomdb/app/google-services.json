@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754907447096",
+    "project_id": "roomdb-dab94",
+    "storage_bucket": "roomdb-dab94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754907447096:android:a634995f6c15bacbfd4bcd",
+        "android_client_info": {
+          "package_name": "com.example.roomdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQs1CHrxkr8D725uqm4a5iWD2juf6Ftg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
